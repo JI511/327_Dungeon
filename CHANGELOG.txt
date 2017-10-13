@@ -1,0 +1,3 @@
+day 1 - On the first day I worked on just simply displaying the inventory and the equipment since they are needed for everything else. I just worked on putting it up on the screen and not really putting anything in it.
+day 2 - I made it so that items can be picked up and are placed in the correct spot without going over the maximum number. Equipment was kind of difficult because it dealt with enums.
+day 3 - This is when I did the majority of the work and worked on monster attacking and so on. I did not find this too challenging to do as the code I had made this easier than what I was anticipating. I believe I have everything working properly. 
