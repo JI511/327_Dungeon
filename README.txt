@@ -1,1 +1,3 @@
-For assignment 1.09 I have lots of relevant files such as the dungeon.c, the heap.c, path.c, a playDungeon.c, a util.h header file, a character.h header file, a character.cpp, and a monsterParse.cpp file. I added two of the professor’s files, descriptions.cpp and dice.cpp to be able to parse items the way he did. I added an inventory vector to store items and a equipment map for easy access through keys. These are the only added data structures and are used a lot. This project was more enjoyable than others as it added a lot more to the game. I believe I implemented everything correctly and I also took away fog of war because Jeremy said I could and I dislike it. A good way to end the project!
+To run this game use the command: make dungeon
+if not using a Mac device open the util.h file and change the endian comment 
+to use endian.h and not the other endian file.

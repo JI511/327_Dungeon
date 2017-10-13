@@ -26,7 +26,7 @@ extern "C" {
 #include <unistd.h>
 #include <ncurses.h>
 //#include <endian.h>
-#include "../portable_endian.h"
+#include "portable_endian.h"
 #include "playDungeon.h"
 #include "heap.h"
 
